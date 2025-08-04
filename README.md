@@ -2,7 +2,7 @@
 
 ##  NewShiksha Ultra-Scale Architecture: Billion-Request Platform Design
 
-###🎭 Introduction: The "Oh Crap, We're Going Viral" Moment
+### The "Oh Crap, We're Going Viral" Moment
 
 Picture this: You're sipping your third coffee of the morning, debugging that one pesky API endpoint that keeps timing out, when suddenly your phone explodes with notifications. Your edtech platform just got featured on Product Hunt, your Twitter post went viral, and now you have 50,000 users trying to access your course generation feature simultaneously.
 Your server is having a meltdown faster than a chocolate bar in a toddler's hand.
