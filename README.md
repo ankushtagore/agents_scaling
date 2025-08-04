@@ -1,6 +1,4 @@
-# agents_scaling
-
-##  NewShiksha Ultra-Scale Architecture: Billion-Request Platform Design
+# NewShiksha Ultra-Scale Architecture: Billion-Request Platform Design
 
 ### The "Oh Crap, We're Going Viral" Moment
 
